@@ -1,3 +1,7 @@
+npm i
+npm start
+npm build
+
 #修改node_modules/open/index.js 
 import fs, { constants as fsConstants } from 'node:fs/promises';
 改为
